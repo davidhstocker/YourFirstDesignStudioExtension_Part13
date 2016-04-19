@@ -1,4 +1,4 @@
-define(["sap/designstudio/sdk/component", "d3", "css!..css/component.css"], function(Component, d3, unusedDummy) {
+define(["sap/designstudio/sdk/component", "d3", "css!../css/component.css"], function(Component, d3, unusedDummy) {
   Component.subclass("com.sap.sample.scngauge.SCNGauge", function() {
 	
 		var me = this;
